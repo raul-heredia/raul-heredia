@@ -9,7 +9,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 
 ## Skills     Level
 
-- Linux &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ⭐⭐⭐
+- Linux &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⭐⭐⭐
 - Bash &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⭐⭐⭐
 - Docker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⭐⭐⭐
 - Team Work &nbsp; &nbsp; &nbsp; ⭐⭐⭐⭐⭐
