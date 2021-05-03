@@ -15,7 +15,6 @@ My name is Raúl, I'm from Barcelona, Spain.
 - HTML / CSS 
 - PHP         
 - Windows
-- Office Suites (Microsoft / Open)
 - System Virtualization
 - VPN 
 #### Soft Skills
