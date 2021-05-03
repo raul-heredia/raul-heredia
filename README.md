@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 My name is Raúl, I'm from Barcelona, Spain.
-<!--
-**raul-heredia/raul-heredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About Me 
 
