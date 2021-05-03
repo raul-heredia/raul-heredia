@@ -8,8 +8,8 @@ My name is Raúl, I'm from Barcelona, Spain.
 - 🌱 I’m currently completing my studies in Systems and Networks Administration.
 
 ## Skills     Level
-<pre
-- Linux       ⭐⭐⭐
+
+- Linux &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ⭐⭐⭐
 - Bash        ⭐⭐⭐
 - Docker      ⭐⭐⭐
 - Team Work   ⭐⭐⭐⭐⭐
@@ -17,6 +17,6 @@ My name is Raúl, I'm from Barcelona, Spain.
 - HTML / CSS  ⭐⭐
 - PHP         ⭐⭐
 - Windows     ⭐⭐⭐
-/pre>
+
 ## Contact
 Find all my contact information in my [website](https://www.raulheredia.es).
