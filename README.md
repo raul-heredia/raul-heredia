@@ -9,14 +9,21 @@ My name is Raúl, I'm from Barcelona, Spain.
 
 ## Skills
 
+### Hard Skills
 - Linux       
 - Bash        
-- Docker      
-- Team Work   
-- VPN         
+- Docker              
 - HTML / CSS 
 - PHP         
-- Windows     
+- Windows
+- Office Suites (Microsoft / Open)
+- System Virtualization
+- VPN 
 
+### Soft Skills
+- Team Work
+- Organisation
+- Creative
+   
 ## Contact
 Find all my contact information in my [website](https://www.raulheredia.es).
