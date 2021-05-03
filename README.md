@@ -2,12 +2,13 @@
 
 My name is Raúl, I'm from Barcelona, Spain.
 
-## About Me 
+### About Me 
 
 - 💼 I’m currently working on internships in [AMVARA S.L](https://www.amvara.de) as TI System Administrator.
 - 📖 I’m currently completing my studies in Systems and Networks Administration.
 
 ## Skills
+### Hard Skills
 - Linux       
 - Bash        
 - Docker              
@@ -16,7 +17,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 - Windows
 - System Virtualization
 - VPN 
-
+### Soft Skills
 - Team Work
 - Organisation
 - Creative
