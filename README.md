@@ -9,7 +9,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 
 ## Skills
 
-### Hard Skills
+#### Hard Skills
 - Linux       
 - Bash        
 - Docker              
@@ -19,8 +19,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 - Office Suites (Microsoft / Open)
 - System Virtualization
 - VPN 
-
-### Soft Skills
+#### Soft Skills
 - Team Work
 - Organisation
 - Creative
