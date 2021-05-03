@@ -8,7 +8,6 @@ My name is Raúl, I'm from Barcelona, Spain.
 - 📖 I’m currently completing my studies in Systems and Networks Administration.
 
 ## Skills
-#### Hard Skills
 - Linux       
 - Bash        
 - Docker              
@@ -17,7 +16,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 - Windows
 - System Virtualization
 - VPN 
-#### Soft Skills
+
 - Team Work
 - Organisation
 - Creative
