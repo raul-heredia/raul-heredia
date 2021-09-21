@@ -4,8 +4,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 
 ### About Me 
 
-- 💼 I’m currently working on internships in [AMVARA S.L](https://www.amvara.de) as TI System Administrator.
-- 📖 I’m currently completing my studies in Systems and Networks Administration.
+- 📖 I’m currently completing my studies in Web Development.
 
 ## Skills
 ### Hard Skills
