@@ -11,7 +11,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 - Linux       
 - Bash        
 - Docker              
-- HTML / CSS 
+- HTML / CSS / JavaScript
 - PHP         
 - Windows
 - System Virtualization
