@@ -3,7 +3,7 @@
 My name is Raúl, I'm from Barcelona, Spain.
 
 ### About Me 
-
+- 💼 I’m currently working on internships in [Techedge Spain]https://www.techedgegroup.com/es/) as a Web developer.
 - 📖 I’m currently completing my studies in Web Development.
 
 ## Skills
@@ -21,4 +21,5 @@ My name is Raúl, I'm from Barcelona, Spain.
 - Organisation
 - Creative
 ## Contact
-Find all my contact information in my [website](https://www.raulheredia.es).
+- 📧 raul.heredia01@outlook.com
+- [Linkedin](https://www.linkedin.com/in/raul-h/)
