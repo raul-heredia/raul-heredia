@@ -34,7 +34,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 - NodeJS 
 - ExpressJS
 - PHP
-##### Other
+#### Other
 - Git
 - MySQL
 - MongoDB
