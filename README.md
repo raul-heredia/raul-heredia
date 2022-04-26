@@ -30,6 +30,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 - Angular
 - Angular Material
 - Bootstrap
+- React & React Native
 ##### Backend
 - NodeJS 
 - ExpressJS
