@@ -4,7 +4,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/raul-h&target=_blank">
+	<a href="https://www.linkedin.com/in/raul-h/&target=_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://t.me/raulh43" target="_blank">
