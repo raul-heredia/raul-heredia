@@ -24,7 +24,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 ## 🎧 Currently Playing on Spotify
 <p align="center">
 <a href="https://open.spotify.com/user/eh286wtioft7ds8c031zqw7vk">
-    <img src="https://spotify-player-rho.vercel.app/api/spotify/?background_color=0d1117" width="100%" />
+    <img src="https://spotify-player-rho.vercel.app/api/spotify/?background_color=0d1117" width="50%" />
 </a>
 
 </p>
