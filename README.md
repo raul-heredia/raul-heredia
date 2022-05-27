@@ -21,8 +21,11 @@ My name is Raúl, I'm from Barcelona, Spain.
 </p>
 
 ## 🎧 Currently Playing on Spotify
+<p align="center">
 
 [![Spotify](https://spotify-player-rho.vercel.app/api/spotify/?background_color=0d1117)](https://open.spotify.com/user/eh286wtioft7ds8c031zqw7vk)
+
+</p>
 
 ## ⚡ Tech Stack
 ### 🚀 Languages
