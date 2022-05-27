@@ -54,7 +54,7 @@ My name is Raúl, I'm from Barcelona, Spain.
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.Js" />
     <img src="https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express&logoColor=F7DF1E" alt="ExpressJS" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-    <img src="https://img.shields.io/badge/Laravel-cccccc?style=for-the-badge&logo=laravel&logoColor=f9322c" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Laravel-262626?style=for-the-badge&logo=laravel&logoColor=f9322c" alt="Laravel" />
     <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.io" />
 <p>
 
