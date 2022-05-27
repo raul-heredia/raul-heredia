@@ -76,7 +76,7 @@ My name is Raúl, I'm from Barcelona, Spain.
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
-### 📜 Certifications
+## 📜 Certifications
 <p align="center">
 	<a  href="https://www.credly.com/badges/08cd1a24-2e6a-4b80-b578-7bdf397ee3f0">
 		<img src="./src/js.png" width="25%" />
