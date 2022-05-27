@@ -97,4 +97,6 @@ My name is Raúl, I'm from Barcelona, Spain.
 </p>
 
 ### 🔝 Most used languages
-  <img alt="languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-heredia&layout=compact&hide_border=true&theme=radical" />
+<p align="center">
+  <img alt="languages" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-heredia&layout=compact&hide_border=true&theme=radical" />
+</p>
