@@ -4,13 +4,13 @@ My name is Raúl, I'm from Barcelona, Spain.
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/raul-h/&target=_blank">
+	<a href="https://www.linkedin.com/in/raul-h/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://t.me/raulh43" target="_blank">
+	<a href="https://t.me/raulh43" >
 		<img src="https://img.shields.io/badge/Telegram-239fdb?style=for-the-badge&logo=telegram&logoColor=white" />
 	</a>
-    <a href="https://discordapp.com/users/322705099820498946" target="_blank">
+    <a href="https://discordapp.com/users/322705099820498946" >
 		<img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
 	</a>
     <a href="mailto:raul.heredia01@outlook.com">
@@ -78,13 +78,13 @@ My name is Raúl, I'm from Barcelona, Spain.
 
 ### 📜 Certifications
 <p align="center">
-	<a target="_blank" href="https://www.credly.com/badges/08cd1a24-2e6a-4b80-b578-7bdf397ee3f0">
+	<a  href="https://www.credly.com/badges/08cd1a24-2e6a-4b80-b578-7bdf397ee3f0">
 		<img src="./src/js.png" width="25%" />
 	</a>
-    <a target="_blank" href="https://www.credly.com/badges/796554ba-fa94-4328-8a4d-4a9a9b5283dc">
+    <a  href="https://www.credly.com/badges/796554ba-fa94-4328-8a4d-4a9a9b5283dc">
 		<img src="./src/html5.png" width="25%" />
 	</a>
-	<a target="_blank" href="https://www.credly.com/badges/aeabf994-19a3-4324-a42f-c7e8c70b49dd">
+	<a  href="https://www.credly.com/badges/aeabf994-19a3-4324-a42f-c7e8c70b49dd">
 		<img src="./src/server.png" width="25%" />
 	</a>
 </p>
