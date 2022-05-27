@@ -2,6 +2,7 @@
 My name is Raúl, I'm from Barcelona, Spain.
 * 🧑🏻‍💻 Tech enthusiast, System Administrator & Full-Stack Developer. 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/raul-h/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,8 +23,9 @@ My name is Raúl, I'm from Barcelona, Spain.
 
 ## 🎧 Currently Playing on Spotify
 <p align="center">
-
-[![Spotify](https://spotify-player-rho.vercel.app/api/spotify/?background_color=0d1117)](https://open.spotify.com/user/eh286wtioft7ds8c031zqw7vk)
+<a href="https://open.spotify.com/user/eh286wtioft7ds8c031zqw7vk">
+    <img src="https://spotify-player-rho.vercel.app/api/spotify/?background_color=0d1117" width="100%" />
+</a>
 
 </p>
 
