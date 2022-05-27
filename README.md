@@ -24,7 +24,7 @@ My name is Raúl, I'm from Barcelona, Spain.
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
----
+
 ## ⚡ Tech Stack
 ### 🚀 Languages
 
