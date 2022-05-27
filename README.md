@@ -65,6 +65,7 @@ My name is Raúl, I'm from Barcelona, Spain.
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Docker-0069d9.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/IntelliJ-4f66cd?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" alt="IntelliJ" />
     <img src="https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
