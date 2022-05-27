@@ -20,11 +20,9 @@ My name is Raúl, I'm from Barcelona, Spain.
 	</a>
 </p>
 
-## Spotify Playing
+## 🎧 Currently Playing on Spotify
 
-[![Spotify](https://spotify-player-rho.vercel.app/api/spotify)](https://open.spotify.com/user/eh286wtioft7ds8c031zqw7vk)
-
-[<img src="[https://spotify-player-rho.vercel.app/api/spotify](https://raul-heredia.vercel.app/api/spotify)" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/eh286wtioft7ds8c031zqw7vk)
+[![Spotify](https://spotify-player-rho.vercel.app/api/spotify/?background_color=8b0000)](https://open.spotify.com/user/eh286wtioft7ds8c031zqw7vk)
 
 ## ⚡ Tech Stack
 ### 🚀 Languages
