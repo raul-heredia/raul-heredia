@@ -1,7 +1,7 @@
 ## Hi there <img src="/src/wave.gif" width="30px">
 My name is Raúl, I'm from Barcelona, Spain.
 * 🧑🏻‍💻 Tech enthusiast, System Administrator & Full-Stack Developer. 
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
+* 💡 Currently working as Junior Full-Stack Developer at [opentrends](https://www.opentrends.net). 
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/raul-h/">
