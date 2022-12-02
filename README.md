@@ -51,6 +51,7 @@ My name is Raúl, I'm from Barcelona, Spain.
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
     <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.Js"/>
     <img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white"  alt="Spring"/>
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"  alt="JUnit5"/>
     <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"  alt="Symfony"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="Bootstrap"/>
