@@ -73,6 +73,7 @@ My name is Raúl, welcome to my personal github account. I'm from Barcelona, Spa
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+	<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" alt="IntelliJ" />
     <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
@@ -94,7 +95,7 @@ My name is Raúl, welcome to my personal github account. I'm from Barcelona, Spa
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## 📜 Certifications
+## 📜 Official Certifications
 <p align="center">
 	<a  href="https://www.credly.com/badges/08cd1a24-2e6a-4b80-b578-7bdf397ee3f0">
 		<img src="./src/js.png" width="25%" />
