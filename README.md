@@ -1,9 +1,12 @@
 ## Hi there <img src="/src/wave.gif" width="30px">
-My name is Raúl, I'm from Barcelona, Spain.
+My name is Raúl, welcome to my personal github account. I'm from Barcelona, Spain.
 * 🧑🏻‍💻 Tech enthusiast, System Administrator & Full-Stack Developer. 
-* 💡 Currently working as Junior Full-Stack Developer at [SEIDOR Opentrends](https://www.opentrends.net). 
+* 💡 Currently working as Mid-Level Software Developer at [SEIDOR Opentrends](https://www.opentrends.net). 
 
 <p align="center">
+	<a href="https://github.com/otrheredia">
+		<img src="https://img.shields.io/badge/Work GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+	</a>
 	<a href="https://www.linkedin.com/in/raul-h/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
