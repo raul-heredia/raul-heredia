@@ -1,121 +1,385 @@
-## Hi there <img src="/src/wave.gif" width="30px">
-My name is Raúl, welcome to my personal github account. I'm from Barcelona, Spain.
-* 🧑🏻‍💻 Tech enthusiast, System Administrator & Full-Stack Developer. 
-* 💡 Currently working as Mid-Level Software Developer at [SEIDOR Opentrends](https://www.opentrends.net). 
+<div align="center">
 
-<p align="center">
-	<a href="https://github.com/otrheredia">
-		<img src="https://img.shields.io/badge/Work GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-	</a>
-	<a href="https://www.linkedin.com/in/raul-h/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://t.me/raulh43" >
-		<img src="https://img.shields.io/badge/Telegram-239fdb?style=for-the-badge&logo=telegram&logoColor=white" />
-	</a>
-    <a href="https://discordapp.com/users/322705099820498946" >
-		<img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
-	</a>
-    <a href="mailto:raul.heredia01@outlook.com">
-		<img src="https://img.shields.io/badge/Outlook-0078d4?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" />
-	</a>
-    <a href="mailto:raul.herediam01@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header"/>
+
+<h1>
+  <img src="/src/wave.gif" width="40px"> 
+  Raúl Heredia
+</h1>
+
+<h3>Full-Stack Developer | Backend Specialist</h3>
+
+<!-- Dynamic Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Building+scalable+microservices+%F0%9F%9A%80;3%2B+years+crafting+enterprise+solutions;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+React;From+Barcelona+%F0%9F%87%AA%F0%9F%87%B8+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
-## 🎧 Currently Playing on Spotify
-<p align="center">
+<!-- Currently Playing Spotify -->
+<div align="center">
+
+## 🎧 Vibing to
+
 <a href="https://open.spotify.com/user/eh286wtioft7ds8c031zqw7vk">
-    <img src="https://spotify-player-rho.vercel.app/api/spotify/?background_color=0d1117" width="50%" />
+  <img src="https://spotify-player-rho.vercel.app/api/spotify/?background_color=0d1117&border_color=00D9FF" width="50%" />
 </a>
 
-</p>
+</div>
 
-## ⚡ Tech Stack
-### 🚀 Languages
-<p align="center">
-    <img src="https://img.shields.io/badge/Java-e51f24?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" alt="SASS" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
-    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
+<br/>
+
+<div align="left">
+	
+## 🚀 About Me
+
+```json
+{
+  "name": "Raúl Heredia",
+  "location": "Barcelona, Spain 🇪🇸",
+  "currentRole": "Mid-Level Backend Developer @ SEIDOR Opentrends",
+  "experience": "3+ years",
+  "focus": "Reliable Backend Systems & Microservices Architecture",
+  "dailyRoutine": {
+    "morning": "☕ Code Review + Feature Planning",
+    "afternoon": "🏗️ Implementing scalable, production-ready services",
+    "evening": "🏃 Running & 🏋️‍♂️ Lifting Weights",
+    "night": "🎮 Gaming | 🎵 Music"
+  },
+  "techPhilosophy": [
+    "Code should solve real problems, not just follow patterns",
+    "Quality comes from ownership and responsibility",
+    "Maintainable, testable and observable systems matter"
+  ],
+  "languages": ["ES", "CA", "EN"],
+  "askMeAbout": ["Java", "Spring", "Microservices", "Cloud", "CI/CD", "Clean Architecture"]
+}
+```
+</div>
+
+<div align="center">
+
+## 🛠️ Stack
+
+### Backend
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="50" height="50" alt="Hibernate" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=maven" width="50" height="50" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="50" height="50" alt="JUnit" />
+      <br>JUnit
+    </td>
+  </tr>
+</table>
+
+### Frontend
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sass" width="50" height="50" alt="SASS" />
+      <br>SASS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+
+### Database & Storage
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50" height="50" alt="Oracle" />
+      <br>Oracle
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+
+### DevOps & Cloud
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="GitHub Actions" />
+      <br>Actions
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Bash" />
+      <br>Bash
+    </td>
+  </tr>
+</table>
+
+### Tools
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Journey
+
+</div>
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1f6feb','primaryTextColor':'#fff','primaryBorderColor':'#1f6feb','lineColor':'#58a6ff','secondaryColor':'#161b22','tertiaryColor':'#0d1117','fontSize':'14px'}}}%%
+timeline
+    title Professional Path
+    2017-2019 : Technician in Microcomputer Systems 🎓
+              : Best Academic Record 🏆
+    2019-2021 : Higher Technician in Networked Systems 🎓
+              : Best Final Project 🏆
+    2021-2022 : Higher Technician in Web Development 🎓
+              : AMVARA - Systems Admin Intern 💼
+    2022 : Techedge - Frontend Dev Intern 💼
+         : Started at SEIDOR Opentrends 🚀
+    2023-2026 : Growing as Full-Stack Developer 📈
+              : Microservices Architecture 🏗️
+              : Multiple Certifications 📜
+```
+
+<div align="center">
+
+### 🏢 Currently @ SEIDOR Opentrends
+
+<table>
+  <tr>
+	<td>
+	  ✅ Developing <b>microservices</b> with Java & Spring Boot<br/>
+	  ✅ Contributing to the design of <b>scalable REST APIs</b><br/>
+	  ✅ Participating in <b>code refactoring</b> and improving existing systems<br/>
+	  ✅ Working with <b>CI/CD pipelines</b> using Jenkins & GitHub Actions<br/>
+	  ✅ Writing and maintaining <b>automated tests</b> with JUnit & Mockito<br/>
+	  ✅ Collaborating in <b>Agile teams</b> on international projects<br/>
+	</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Certifications & Achievements
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/><br/>
+      <sub><b>AZ-900</b></sub><br/>
+      <sub>2024</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-SI_Associate-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
+      <sub><b>System Integration</b></sub><br/>
+      <sub>2023</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Oracle-Java_SE_Programmer-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
+      <sub><b>OCA Certified</b></sub><br/>
+      <sub>2022</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://www.credly.com/badges/08cd1a24-2e6a-4b80-b578-7bdf397ee3f0">
+  <img src="./src/js.png" width="18%" />
+</a>
+<a href="https://www.credly.com/badges/796554ba-fa94-4328-8a4d-4a9a9b5283dc">
+  <img src="./src/html5.png" width="18%" />
+</a>
+<a href="https://www.credly.com/badges/aeabf994-19a3-4324-a42f-c7e8c70b49dd">
+  <img src="./src/server.png" width="18%" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raul-heredia&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raul-heredia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raul-heredia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=raul-heredia&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" width="98%" />
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raul-heredia/raul-heredia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raul-heredia/raul-heredia/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raul-heredia/raul-heredia/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+## 💡 Core Philosophy
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br/>
+      <b>Clean Code</b><br/>
+      <sub>Readable, maintainable,<br/>production-ready</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/000000/test-tube.png" width="60"/><br/>
+      <b>Test Driven</b><br/>
+      <sub>High coverage,<br/>confidence in changes</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60"/><br/>
+      <b>Cloud Native</b><br/>
+      <sub>Scalable, resilient,<br/>distributed systems</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/><br/>
+      <b>Always Learning</b><br/>
+      <sub>Curious mind,<br/>growth mindset</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
 <p>
+  <i>Open to interesting projects, collaboration opportunities, and tech conversations!</i>
+</p>
 
-### 🧩 Libraries & Framework
-
-<p align="center">
-    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.Js"/>
-    <img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white"  alt="Spring"/>
-    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"  alt="JUnit5"/>
-    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"  alt="Symfony"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8"  alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.Js" />
-    <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=F7DF1E" alt="ExpressJS" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL" />
-    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.io" />
 <p>
-
-### 🧑🏻‍💻 Tools & Platforms
-
-<p align="center">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-	<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" alt="IntelliJ" />
-    <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <a href="mailto:raul.heredia01@outlook.com">
+    <img src="https://img.shields.io/badge/Email_Me-Let's_Talk-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raul-h/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/raulh43">
+    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
-### 📊 Databases
+<br/>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=raul-heredia&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
-### 💻 Workspace
+</div>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-## 📜 Official Certifications
-<p align="center">
-	<a  href="https://www.credly.com/badges/08cd1a24-2e6a-4b80-b578-7bdf397ee3f0">
-		<img src="./src/js.png" width="25%" />
-	</a>
-    <a  href="https://www.credly.com/badges/796554ba-fa94-4328-8a4d-4a9a9b5283dc">
-		<img src="./src/html5.png" width="25%" />
-	</a>
-	<a  href="https://www.credly.com/badges/aeabf994-19a3-4324-a42f-c7e8c70b49dd">
-		<img src="./src/server.png" width="25%" />
-	</a>
-</p>
+<sub>Made with ❤️ from Barcelona | © 2025 Raúl Heredia</sub>
 
-## 📈 Stats
+</div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raul-heredia&show_icons=true&hide_border=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raul-heredia&hide_border=true&theme=radical" />
-</p>
-
-### 🔝 Most Used Languages
-<p align="center">
-  <img alt="languages" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-heredia&layout=compact&hide_border=true&theme=radical" />
-</p>
