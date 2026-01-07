@@ -293,25 +293,48 @@ timeline
 
 <div align="center">
 
-## 📊 GitHub Activity
+  <h2>📊 GitHub Activity</h2>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raul-heredia&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
-<br/><br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=raul-heredia&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=raul-heredia&bg_color=ffffff&color=58a6ff&line=1f6feb&point=000000&area=true&hide_border=true">
+      <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raul-heredia&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true">
+    </picture>
+  </a>
+  
+  <br/><br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raul-heredia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raul-heredia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
-<br/><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=raul-heredia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=raul-heredia&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true">
+      <img width="48%" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raul-heredia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true">
+    </picture>
+  </a>
 
-<img src="https://streak-stats.demolab.com/?user=raul-heredia&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" width="98%" />
-<br/><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raul-heredia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raul-heredia&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+      <img width="48%" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raul-heredia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
+    </picture>
+  </a>
+  
+  <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raul-heredia/raul-heredia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raul-heredia/raul-heredia/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raul-heredia/raul-heredia/output/github-contribution-grid-snake.svg">
-</picture>
+  <a href="https://github.com/raul-heredia">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=raul-heredia&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=raul-heredia&theme=default&hide_border=true&background=ffffff&date_format=j%20M%5B%20Y%5D">
+      <img width="98%" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=raul-heredia&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D">
+    </picture>
+  </a>
 
-</div>
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raul-heredia/raul-heredia/output/github-contribution-grid-snake-dark.
 
 
 
